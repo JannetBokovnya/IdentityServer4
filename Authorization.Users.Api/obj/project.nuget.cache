@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vddJRs5sclsgY5ruKl24jnqE1gNPOp9WQfQv1cZKiFBo5ivP6PEqk1i9WyQbej8PqmOkxbwepowP/g2nlT4o4w==",
+  "success": true,
+  "projectFilePath": "C:\\Janet_App\\My_Project\\Core\\Authorization\\Authorization.Users.Api\\Authorization.Users.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dima\\.nuget\\packages\\identitymodel\\4.5.0\\identitymodel.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dima\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Dima\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
